@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/E-Meals/static/css/main.ac771b2a.chunk.css",
+    "main.js": "/E-Meals/static/js/main.f7a03f7a.chunk.js",
+    "main.js.map": "/E-Meals/static/js/main.f7a03f7a.chunk.js.map",
+    "runtime-main.js": "/E-Meals/static/js/runtime-main.10462e73.js",
+    "runtime-main.js.map": "/E-Meals/static/js/runtime-main.10462e73.js.map",
+    "static/js/2.918478bc.chunk.js": "/E-Meals/static/js/2.918478bc.chunk.js",
+    "static/js/2.918478bc.chunk.js.map": "/E-Meals/static/js/2.918478bc.chunk.js.map",
+    "index.html": "/E-Meals/index.html",
+    "static/css/main.ac771b2a.chunk.css.map": "/E-Meals/static/css/main.ac771b2a.chunk.css.map",
+    "static/js/2.918478bc.chunk.js.LICENSE.txt": "/E-Meals/static/js/2.918478bc.chunk.js.LICENSE.txt",
+    "static/media/HeaderImg.e5a9e688.avif": "/E-Meals/static/media/HeaderImg.e5a9e688.avif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10462e73.js",
+    "static/js/2.918478bc.chunk.js",
+    "static/css/main.ac771b2a.chunk.css",
+    "static/js/main.f7a03f7a.chunk.js"
+  ]
+}
